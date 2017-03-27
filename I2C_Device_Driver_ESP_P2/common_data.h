@@ -1,0 +1,4 @@
+#define FLASHGETS  0x00
+#define FLASHGETP  0x30
+#define FLASHSETP  0x40
+#define FLASHERASE 0x03
